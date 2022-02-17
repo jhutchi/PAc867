@@ -5,7 +5,7 @@
 int main() {
 
 	//student data table
-	cout << "C867, C++, studentID: 001374855, Jonathan Hutchinson" << endl;
+	cout << "C867, C++, studentID: numbers, Anon Student" << endl;
 	const string studentData[] = {
 
 		"A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
